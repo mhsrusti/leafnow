@@ -28,7 +28,7 @@ LeafNow is a full-stack web application that serves as an online plant nursery, 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript (React.js)
-- **Backend:** JavaScript(Node.js), PHP
+- **Backend:** JavaScript(Node.js), PHP (need Composer)
 - **Database:** MySQL
 - **Framework:** Bootstrap
 - **Authentication:** JSON
